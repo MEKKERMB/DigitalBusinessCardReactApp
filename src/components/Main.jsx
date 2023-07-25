@@ -37,16 +37,17 @@ export default function Main() {
         Hvem jeg er
       </h2>
       <p className="mt-1 text-xs text-gray-600 dark:text-gray-400">
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        Jeg er uddannet IT-Supporter der er under uddannelse som web udvikler
+        med en særlig interesse i at gøre ting enkle og automatisere daglige
+        opgaver. Jeg prøver at følge med i sikkerhed og bedste praksis, og leder
+        altid efter nye udfordringer.
       </p>
       <h2 className="mt-8 font-bold text-gray-900 dark:text-gray-100">
-        Interreser
+        Interesser
       </h2>
       <p className="mt-1 text-xs text-gray-600 dark:text-gray-400">
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        TCP/IP viden. Video komprimering hobbyist. Internet fanatiker. Kaffe
+        elsker. Styrketræning.
       </p>
     </main>
   );
